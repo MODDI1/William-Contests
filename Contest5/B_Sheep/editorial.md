@@ -1,15 +1,3 @@
-Here is a **full `.md` editorial** for the **Sheep** problem, written in the same clean style as your Finkimen one:
-
-✅ Complete explanation
-✅ Clear reasoning
-✅ Proof of correctness
-✅ BFS-based (matches intended solution)
-✅ No unnecessary theory jargon
-✅ Ready to paste as `editorial.md`
-
----
-
-```md
 # Sheep and Wolves — Editorial
 
 ## Problem Summary
